@@ -432,6 +432,11 @@ _:-ms-input-placeholder, :root #wowslider-container1 a.ws_prev > span:before {li
 	visibility:hidden;
 	max-width:none;
 }
+	.ws_bulframe img{
+	
+	    max-width: 108px !important;
+	
+	}
 #wowslider-container1 .ws_bullets a:hover img{
 	visibility:visible;
 }
@@ -471,8 +476,4 @@ _:-ms-input-placeholder, :root #wowslider-container1 a.ws_prev > span:before {li
 	
 	
 	
-	.ws_bulframe img{
-	
-	    max-width: 108px !important;
-	
-	}
+
