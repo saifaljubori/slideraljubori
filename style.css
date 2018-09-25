@@ -76,9 +76,8 @@
 	display:block;
 	color:transparent;
 }
-#wowslider-container1 img{
-	max-width: none !important;
-}
+
+
 #wowslider-container1 .ws_images .ws_list img,
 #wowslider-container1 .ws_images > div > img{
 	width:100%;
@@ -469,3 +468,11 @@ _:-ms-input-placeholder, :root #wowslider-container1 a.ws_prev > span:before {li
 		display: none
 	}
 }
+	
+	
+	
+	.ws_bulframe img{
+	
+	    max-width: 88px !important;
+	
+	}
