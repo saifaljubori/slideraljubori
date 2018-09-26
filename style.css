@@ -258,7 +258,7 @@ top: 4px;
 #wowslider-container1 .ws_playpause {
 	position:absolute;
 	right: 100px;
-	bottom: 0;
+	bottom: 11px;
 	padding: 15px;
 	background: rgba(255,255,255,0.3);
 	color: #ffffff;
