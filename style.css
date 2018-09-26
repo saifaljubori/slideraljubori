@@ -20,14 +20,14 @@
 	zoom: 1; 
 	position: relative;
 	width: 100%;
-	max-width: 830px;
+	max-width: 959px;
 	max-height:360px;
 	margin:0px auto 0px;
 	z-index:90;
 	text-align:left; /* reset align=center */
 	font-size: 10px;
 	text-shadow: none; /* fix some user styles */
-
+top: 4px;
 	/* reset box-sizing (to boostrap friendly) */
 	-webkit-box-sizing: content-box;
 	-moz-box-sizing: content-box;
