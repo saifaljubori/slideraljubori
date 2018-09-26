@@ -23,7 +23,6 @@
 	max-width: 959px;
 	max-height:360px;
 	margin:0px auto 0px;
-	z-index:90;
 	text-align:left; /* reset align=center */
 	font-size: 10px;
 	text-shadow: none; /* fix some user styles */
